@@ -1,2 +1,8 @@
-# db-json-server-project-grupo
-Json server para ser usado no projeto em grupo
+Segue link para Json-server hospedado
+
+https://json-server-project-individual.vercel.app/
+
+
+
+
+
