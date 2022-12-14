@@ -1,0 +1,225 @@
+{
+    "hamburguer":[
+    {
+        "id": 1,
+        "nome": "X-tudo",
+        "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+        "preco": 8.5,
+        "imagem": "https://as1.ftcdn.net/v2/jpg/00/84/28/54/1000_F_84285488_CaWrmiQ9xWJXFpCPMHD1r2ZYAzcESfkU.jpg",
+        "categoria_id": 1
+    },
+    {
+        "id": 2,
+        "nome": "X-Búrguer",
+        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+        "preco": 10.5,
+        "imagem": "https://imagensemoldes.com.br/wp-content/uploads/2020/03/X-Burguer-Hamburguer-Gourmet-Cheeseburguer-PNG.png",
+        "categoria_id": 1
+    },
+    {
+        "id": 3,
+        "nome": "X-Bacon",
+        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+        "preco": 12.5,
+        "imagem":"https://s3.us-west-2.amazonaws.com/whatsmenu/production/restaurantemartioris/products/60454/2379c14726544f6dbba16dcb59702406jpeg",
+        "categoria_id": 1
+    },
+    {
+        "id": 4,
+        "nome": "X-frango",
+        "descricao": "Pão, 2 bifes de frango 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+        "preco": 14.5,
+        "imagem":"https://s3.us-west-2.amazonaws.com/whatsmenu/production/restaurantemartioris/products/60454/2379c14726544f6dbba16dcb59702406jpeg",
+        "categoria_id": 1
+    }
+    ],
+    "refrigerante":[
+    {
+        "id":5,
+        "nome":"coca-cola",
+        "descrição":" 2 litros",
+        "quantidade":"1 unidade",
+        "preco":8.50,
+        "imagem":"https://thepetitpizzaria.com.br/gramado/wp-content/uploads/2021/06/Pet-2-Litros-Coca-Cola-PNG.png",
+        "categoria_id": 2 
+    },
+    {
+        "id":6,
+        "nome":"fanta-uva",
+        "descrição":" 2 litros",
+        "quantidade":"1 unidade",
+        "preco":7.50,
+        "imagem":"https://trimais.vteximg.com.br/arquivos/ids/1034237-1000-1000/foto_original.jpg?v=637872870424670000",
+        "categoria_id": 2 
+    },
+    {
+        "id":7,
+        "nome":"pepsi-cola",
+        "descrição":" 2 litros",
+        "quantidade":"1 unidade",
+        "preco":8.50,
+        "imagem":"https://thepetitpizzaria.com.br/parobe/wp-content/uploads/2021/06/foto_original.png",
+        "categoria_id": 2 
+    },
+    {
+        "id":8,
+        "nome":"tobi",
+        "descrição":" 2 litros",
+        "quantidade":"1 unidade",
+        "preco": 4.50,
+        "imagem":"https://lojatopbirra.com.br/media/catalog/product/cache/1/image/578x/9df78eab33525d08d6e5fb8d27136e95/1/2/1207-tobi-guarana-2l.jpg",
+        "categoria_id": 2 
+    }
+    ],
+    "acai":[
+    {
+        "id":9,
+        "sabor":"banana",
+        "tamanho":" 200ml",
+        "quantidade":"1 unidade",
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/319901192_2215343038672502_5551869741515212927_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGxn2AKw6ORW4NAYzML3F5-CS_OPFz1Ow4JL848XPU7DlQ_4mlitOc8zp4IJbaFAbR_AvPasPXZm_id0p5l6DGH&_nc_ohc=uIVtiW5fjHQAX-2Adiy&_nc_oc=AQn3EbtbceeABJOibQBYIrLaEoJzmuNAO6tYhZdFTKqoj7U8P5ap3iRRGLnmr3FbrXE&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfBNEscWmy8obLlIFDUnn4esBxaSGcdQLZ1URD8WC1SFlw&oe=639E59F9",
+        "preco": 6,
+        "categoria_id": 3
+    },
+    {
+        "id":10,
+        "sabor":"banana",
+        "tamanho":" 400ml",
+        "quantidade":"1 unidade",
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/319901192_2215343038672502_5551869741515212927_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGxn2AKw6ORW4NAYzML3F5-CS_OPFz1Ow4JL848XPU7DlQ_4mlitOc8zp4IJbaFAbR_AvPasPXZm_id0p5l6DGH&_nc_ohc=uIVtiW5fjHQAX-2Adiy&_nc_oc=AQn3EbtbceeABJOibQBYIrLaEoJzmuNAO6tYhZdFTKqoj7U8P5ap3iRRGLnmr3FbrXE&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfBNEscWmy8obLlIFDUnn4esBxaSGcdQLZ1URD8WC1SFlw&oe=639E59F9",
+        "preco": 8,
+        "categoria_id": 3
+    },
+    {
+        "id":11,
+        "sabor":"banana",
+        "tamanho":" 500ml",
+        "quantidade":"1 unidade",
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/319901192_2215343038672502_5551869741515212927_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGxn2AKw6ORW4NAYzML3F5-CS_OPFz1Ow4JL848XPU7DlQ_4mlitOc8zp4IJbaFAbR_AvPasPXZm_id0p5l6DGH&_nc_ohc=uIVtiW5fjHQAX-2Adiy&_nc_oc=AQn3EbtbceeABJOibQBYIrLaEoJzmuNAO6tYhZdFTKqoj7U8P5ap3iRRGLnmr3FbrXE&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfBNEscWmy8obLlIFDUnn4esBxaSGcdQLZ1URD8WC1SFlw&oe=639E59F9",
+        "preco": 10,
+        "categoria_id": 3
+    },
+    {
+        "id":12,
+        "sabor":"banana",
+        "tamanho":" 700ml",
+        "quantidade":"1 unidade",
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/319901192_2215343038672502_5551869741515212927_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGxn2AKw6ORW4NAYzML3F5-CS_OPFz1Ow4JL848XPU7DlQ_4mlitOc8zp4IJbaFAbR_AvPasPXZm_id0p5l6DGH&_nc_ohc=uIVtiW5fjHQAX-2Adiy&_nc_oc=AQn3EbtbceeABJOibQBYIrLaEoJzmuNAO6tYhZdFTKqoj7U8P5ap3iRRGLnmr3FbrXE&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfBNEscWmy8obLlIFDUnn4esBxaSGcdQLZ1URD8WC1SFlw&oe=639E59F9",
+        "preco": 13,
+        "categoria_id": 3
+    }
+    ],
+    
+    "combo" :[
+        {
+        "id" : 13 ,
+        "nome" : " Combo família" ,
+        "hambúrgueres" :"X-tudo",
+        "quantidade_hambúrgue" :"4" ,
+        "refrigerantes" : "coca-cola" ,
+        "acompanhamentos" : "Batata frita",
+        "preco":60,
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/320063908_3276579329261369_2900822331986265705_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHJ7Fj6LLB0xMUKJ_i3A_9pHrOvm1ORrCMes6-bU5GsIzoEWs8JAjQx8Te2qkgtycTW4PzrKPBqdChh_PQT8cBi&_nc_ohc=M0qVJFULXKEAX8xlhnx&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfAXyawVHdvIZIoWkXQhMbjkPNwebBYHzZ7URVWgEDhvWg&oe=639F9038",
+        "categoria_id": 4
+    },
+    {
+        "id" : 14 ,
+        "nome" : " Combo casal" ,
+        "hambúrgueres" : "X-Búrguer", 
+        "quantidade_hambúrgue" :"2",
+        "refrigerante" : "fanta-uva",
+        "acompanhamento" : "aipim-frito",
+        "preco":38,
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/319862568_984501559605723_947408696492584837_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHwjD_ioV7hpuOcVYyIYQpSzFN0aFr4ksjMU3RoWviSyLtcsW-4hSdaK1mSlKJnUklKJvRkCppcTfzRnsIkiQ6o&_nc_ohc=aOuEr9QN8gMAX8njOD6&tn=r53uSEFkgbXncuPS&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfDlsVP5YG9FLEjiCQGkQhcVydcE4em0OB1M_YdC0bES9w&oe=639E95F2",
+        "categoria_id": 4
+    },
+    {
+        "id" : 15 ,
+        "nome" : " Combo mega" ,
+        "hambúrgueres" :"X-frango",
+        "quantidade_hambúrgue" :"5",
+        "refrigerantes" : "pepsi-cola",
+        "acompanhamentos" : "nugget" ,
+        "preco":75,
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/319095083_695152428665072_5735211142515237190_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGvz47rfXfw7zqcjFymcIrrOjDFgNshKds6MMWA2yEp27wv6XSzzSKowGIH5CrLBmtgwdZDyqX0UcAlB0Perrx9&_nc_ohc=fD6j0mPL7PEAX_mQ6UD&tn=r53uSEFkgbXncuPS&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfCd_srhPWwBXyAABFZqV3C0oPpIhE5oj4aOEFesgsbQJg&oe=639DE453",
+        "categoria_id": 4
+    },
+    {
+        "id" : 16 ,
+        "nome" : " Combo especial",
+        "hambúrgueres" : "X-Bacon",
+        "quantidade_hambúrgue" :"3",
+        "refrigerantes" : "tobi",
+        "acompanhamentos" : "frango á passarinho" ,
+        "preco":45,
+        "imagem":"https://scontent.fqnv10-1.fna.fbcdn.net/v/t39.30808-6/319326483_869558787694799_1124670899023821114_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEQXxIShQ0FpOpfotwPFaKdJ1DiQf7G9NknUOJB_sb02aMzVKB9SWT7WEHCpr9dn6WaGW424o0TzbSe4ANKYUbk&_nc_ohc=fsvmzcHW1r4AX8pzTSc&_nc_ht=scontent.fqnv10-1.fna&oh=00_AfBx7nOPhTZ0rrtBAoa_WHiIjVbiWx5ebYSy0srfan6eNA&oe=639E1254",
+        "categoria_id": 4
+    }
+    ],
+   "acompanhamento_acai" :[
+    {
+        "id" : 17 ,
+        "nome" : " granola ",
+        "categoria_id": 3
+    },
+    {
+        "id" : 18 ,
+        "nome" : " amei ",
+        "categoria_id": 3
+    },
+    {
+        "id" : 19 ,
+        "nome" : " leite ninho ",
+        "categoria_id": 3
+    },
+    {
+        "id" : 20 ,
+        "nome" : " paçoca ",
+        "categoria_id": 3
+    }
+    ],
+    "caldas_acai" :[
+    {
+        "id" : 21 ,
+        "nome" : " chocolate ",
+        "categoria_id": 3
+    },
+    {
+        "id" : 22 ,
+        "nome" : " morango ",
+        "categoria_id": 3
+    },
+    {
+        "id" : 23 ,
+        "nome" : " leite condensado ",
+        "categoria_id": 3
+    },
+    {
+        "id" : 24 ,
+        "nome" : " amora ",
+        "categoria_id": 3
+    }
+    
+    ],
+    
+    "categorias": [
+    {
+      "id": 1,
+      "nome": "Hambúrgueres"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerantes"
+    },
+    {
+      "id": 3,
+      "nome": "açai"
+    },
+    {
+        "id": 4,
+        "nome": "combo"
+      }
+
+    ]
+   
+} 
