@@ -127,7 +127,7 @@
         "nome" : " Combo casal" ,
         "hambúrgueres" : "X-Búrguer", 
         "quantidade_hambúrgue" :"2",
-        "refrigerante" : "Fanta-uva",
+        "refrigerantes" : "Fanta-uva",
         "acompanhamentos" : "Aipim-frito",
         "preco":38,
         "imagem":"https://s3.us-west-2.amazonaws.com/whatsmenu/production/dogdafeijao/products/772778/t2xfrangobatataaipimjpg",
