@@ -117,7 +117,7 @@
         "hambúrgueres" :"X-tudo",
         "quantidade_hambúrgue" :"4" ,
         "refrigerantes" : "Coca-cola" ,
-        "acompanhamento" : "Batata frita",
+        "acompanhamentos" : "Batata frita",
         "preco":60,
         "imagem":"https://instadelivery-public.nyc3.cdn.digitaloceanspaces.com/itens/rYh5jQUOMffK61eT1Yc6aDyp7Zh7I54cKLDAy3OU.jpg",
         "categoria_id": 4
@@ -128,7 +128,7 @@
         "hambúrgueres" : "X-Búrguer", 
         "quantidade_hambúrgue" :"2",
         "refrigerante" : "Fanta-uva",
-        "acompanhamento" : "Aipim-frito",
+        "acompanhamentos" : "Aipim-frito",
         "preco":38,
         "imagem":"https://s3.us-west-2.amazonaws.com/whatsmenu/production/dogdafeijao/products/772778/t2xfrangobatataaipimjpg",
         "categoria_id": 4
