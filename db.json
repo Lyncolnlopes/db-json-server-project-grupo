@@ -36,7 +36,7 @@
     "refrigerante":[
     {
         "id":5,
-        "nome":"coca-cola",
+        "nome":"Coca-cola",
         "descrição":" 2 litros",
         "quantidade":"1 unidade",
         "preco":8.50,
@@ -45,7 +45,7 @@
     },
     {
         "id":6,
-        "nome":"fanta-uva",
+        "nome":"Fanta-uva",
         "descrição":" 2 litros",
         "quantidade":"1 unidade",
         "preco":7.50,
@@ -54,7 +54,7 @@
     },
     {
         "id":7,
-        "nome":"pepsi-cola",
+        "nome":"Pepsi-cola",
         "descrição":" 2 litros",
         "quantidade":"1 unidade",
         "preco":8.50,
@@ -63,7 +63,7 @@
     },
     {
         "id":8,
-        "nome":"tobi",
+        "nome":"Tobi",
         "descrição":" 2 litros",
         "quantidade":"1 unidade",
         "preco": 4.50,
@@ -74,7 +74,7 @@
     "acai":[
     {
         "id":9,
-        "sabor":"banana",
+        "sabor":"Banana",
         "tamanho":" 200ml",
         "quantidade":"1 unidade",
         "imagem":"https://www.shoppingbalneario.com.br/wp-content/uploads/2020/01/acai.jpg",
@@ -83,7 +83,7 @@
     },
     {
         "id":10,
-        "sabor":"banana",
+        "sabor":"Banana",
         "tamanho":" 400ml",
         "quantidade":"1 unidade",
         "imagem":"https://www.shoppingbalneario.com.br/wp-content/uploads/2020/01/acai.jpg",
@@ -92,7 +92,7 @@
     },
     {
         "id":11,
-        "sabor":"banana",
+        "sabor":"Banana",
         "tamanho":" 500ml",
         "quantidade":"1 unidade",
         "imagem":"https://www.shoppingbalneario.com.br/wp-content/uploads/2020/01/acai.jpg",
@@ -101,7 +101,7 @@
     },
     {
         "id":12,
-        "sabor":"banana",
+        "sabor":"Banana",
         "tamanho":" 700ml",
         "quantidade":"1 unidade",
         "imagem":"https://www.shoppingbalneario.com.br/wp-content/uploads/2020/01/acai.jpg",
@@ -116,7 +116,7 @@
         "nome" : " Combo família" ,
         "hambúrgueres" :"X-tudo",
         "quantidade_hambúrgue" :"4" ,
-        "refrigerantes" : "coca-cola" ,
+        "refrigerantes" : "Coca-cola" ,
         "acompanhamento" : "Batata frita",
         "preco":60,
         "imagem":"https://instadelivery-public.nyc3.cdn.digitaloceanspaces.com/itens/rYh5jQUOMffK61eT1Yc6aDyp7Zh7I54cKLDAy3OU.jpg",
@@ -127,8 +127,8 @@
         "nome" : " Combo casal" ,
         "hambúrgueres" : "X-Búrguer", 
         "quantidade_hambúrgue" :"2",
-        "refrigerante" : "fanta-uva",
-        "acompanhamento" : "aipim-frito",
+        "refrigerante" : "Fanta-uva",
+        "acompanhamento" : "Aipim-frito",
         "preco":38,
         "imagem":"https://s3.us-west-2.amazonaws.com/whatsmenu/production/dogdafeijao/products/772778/t2xfrangobatataaipimjpg",
         "categoria_id": 4
@@ -138,8 +138,8 @@
         "nome" : " Combo mega" ,
         "hambúrgueres" :"X-frango",
         "quantidade_hambúrgue" :"5",
-        "refrigerantes" : "pepsi-cola",
-        "acompanhamentos" : "nugget" ,
+        "refrigerantes" : "Pepsi-cola",
+        "acompanhamentos" : "Nugget" ,
         "preco":75,
         "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkAEX6yrur-dkBVL1en3NjnuavVOfga0_TCw&usqp=CAU",
         "categoria_id": 4
@@ -149,8 +149,8 @@
         "nome" : " Combo especial",
         "hambúrgueres" : "X-Bacon",
         "quantidade_hambúrgue" :"3",
-        "refrigerantes" : "tobi",
-        "acompanhamentos" : "frango á passarinho" ,
+        "refrigerantes" : "Tobi",
+        "acompanhamentos" : "Frango á passarinho" ,
         "preco":45,
         "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYO8tHpuO-kJDhGJ0C-DAZTacPwMgXGiRFg&usqp=CAU",
         "categoria_id": 4
@@ -159,44 +159,44 @@
    "acompanhamento_acai" :[
     {
         "id" : 17 ,
-        "nome" : " granola ",
+        "nome" : " Granola ",
         "categoria_id": 3
     },
     {
         "id" : 18 ,
-        "nome" : " amei ",
+        "nome" : " Amendoim ",
         "categoria_id": 3
     },
     {
         "id" : 19 ,
-        "nome" : " leite ninho ",
+        "nome" : " Leite ninho ",
         "categoria_id": 3
     },
     {
         "id" : 20 ,
-        "nome" : " paçoca ",
+        "nome" : " Paçoca ",
         "categoria_id": 3
     }
     ],
     "caldas_acai" :[
     {
         "id" : 21 ,
-        "nome" : " chocolate ",
+        "nome" : " Chocolate ",
         "categoria_id": 3
     },
     {
         "id" : 22 ,
-        "nome" : " morango ",
+        "nome" : " Morango ",
         "categoria_id": 3
     },
     {
         "id" : 23 ,
-        "nome" : " leite condensado ",
+        "nome" : " Leite condensado ",
         "categoria_id": 3
     },
     {
         "id" : 24 ,
-        "nome" : " amora ",
+        "nome" : " Amora ",
         "categoria_id": 3
     }
     
@@ -217,7 +217,7 @@
     },
     {
         "id": 4,
-        "nome": "combo"
+        "nome": "Combo"
       }
 
     ]
